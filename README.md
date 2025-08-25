@@ -8,3 +8,7 @@ Alternative code that I wrote but ended up not using.
 Old versions of my code.
 a final code backup.
 A PDF export of my final python code with outputs.
+
+Video Presentation:
+https://youtu.be/DE7Eu8M84CI
+
